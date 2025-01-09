@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+main{
+    margin: 0 140px;
+}
+.banner-bgc{
+    background: linear-gradient(
+        180deg,
+     rgb(16, 16, 16) 0%,
+      rgb(16, 16, 16, 0) 100%), url("images/Banner\ Image.png");
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 1320px;
+    background-size: cover;
+    background-position: center;
+    margin-top: 50px;
+    border-radius: 16px;
+}
+.banner{
+    justify-content: center;
+    text-align: center;
+    padding: 177px 244px;
+}
+.banner-text-1{
+    color: white;
+    font-size: 32px;
+}
+.banner-text-2{
+    color: white;
+    font-weight: 900;
+    font-size: 72px;
+}
+#offer{
+    font-weight: bold;
+    font-size: 88px;
+    color: #ff0000;
+    text-align: center;
+    margin-top: 120px;
+    margin-bottom: 48px;
+}
+#offer-2{
+    color: #ff0000;
+    font-weight: 500;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 16px;
+}
+#offer-3{
+    font-family: inter;
+    color: #070211;
+    font-weight: bold;
+    font-size: 48px;
+    text-align: center;
+    margin-bottom: 48px;
+}
+.new-year-pic{
+    text-align: center;
+    margin-bottom: 120px;
+
+}
