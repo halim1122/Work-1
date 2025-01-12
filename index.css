@@ -69,7 +69,7 @@ main{
 }
 .img-bgc{
     background:  linear-gradient(
-        180deg,
+        45deg,
      rgb(16, 16, 16) 0%,
       rgb(16, 16, 16, 0) 100%), url("images/Vectorrr.png");
     background-repeat: no-repeat;
