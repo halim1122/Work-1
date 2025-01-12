@@ -267,3 +267,8 @@ hr{
 .sum{
     margin-top: 50px;
 }
+.border{
+    border: 10px solid red;
+    border-radius: 50%;
+    padding: 10px;
+}
